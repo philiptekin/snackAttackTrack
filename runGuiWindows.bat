@@ -16,4 +16,4 @@ if "%VIRTUAL_ENV%" == "" (
  )
 
 :: Run the GUI
-python.exe %~dp0\SpookStation\SpookStationGui\main.py
+python.exe %~dp0\GuiApp\main.py
