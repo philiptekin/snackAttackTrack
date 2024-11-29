@@ -18,4 +18,4 @@ then
 fi
 
 # Run GUI
-python SpookStation/SpookStationGui/main.py
+python GuiApp/main.py
